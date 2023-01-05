@@ -1,0 +1,90 @@
+.nav-tittle{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-left:50px;
+}
+.btn-promary{
+    height: 64px;
+    border-radius:5px;
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+}
+/* banner */
+.banner{
+    margin:0 200px;
+    display: flex;
+    align-items: center;
+}
+.hi{
+    color: #474747;
+    font-weight: 600;
+    font-size: 45px;
+
+}
+.name{color: #181818;
+    font-weight: 700;
+    font-size: 85px;
+
+}
+.pragraph{color: #757575;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 30px;
+
+}
+.bg-color{
+    background: #FFF8F3;
+    background-image: url('images/header_bg.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    background: #FFF8F3;
+   margin-top: 200px;
+}
+.about{
+    text-align: center;
+    padding: 130px 150px;}
+    .section-tittle{
+        color: #181818;
+        margin-bottom: 30px;
+    }
+    .section-discription{
+        color: #757575;
+        text-align: cente;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+
+    
+        
+    }
+    .abiut-info-container{
+        display: flex;
+        justify-content: space-around;
+    }
+    .skill-container{
+        display: flex;
+        margin: 230px;
+    }
+    .skill-tittle{
+        text-align: center;
+        margin-top: 100px;
+    }
